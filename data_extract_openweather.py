@@ -3,7 +3,7 @@ import pandas as pd
 import json
 from datetime import datetime
 
-API_key = 'afb60ecf4c34d67435b3eca2e69e506b'
+API_key = ''
 
 start = 1617223200  # Timestamp de début
 end = 1617309600    # Timestamp de fin
